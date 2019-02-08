@@ -5,4 +5,9 @@
  */
 body {
   padding-top: 56px;
-}
+  background-color: #dee2e6;
+;}
+
+card py-4 h-100 {
+  background-color: black;
+;}
